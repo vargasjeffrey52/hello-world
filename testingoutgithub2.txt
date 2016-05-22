@@ -1,9 +1,0 @@
-﻿I’m just testing how to use Gihub and Git on command line. 
-
-Now im adding something elese to see what happens.
-
-This is the third time trying commit
-
-Now im modifying online and seeing how that changes get interpreted in the local system 
-
-Now im going to try the diff command and see how that changes thing… 
