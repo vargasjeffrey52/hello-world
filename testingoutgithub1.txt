@@ -1,0 +1,3 @@
+I’m just testing how to use Gihub and Git on command line. 
+
+Now im adding something elese to see what happens.
